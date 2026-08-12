@@ -60,7 +60,7 @@
 <a href="https://github.com/DShivam9/Abyss">
   <img src="https://img.shields.io/badge/⚡_Abyss_UI-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Abyss UI"/>
 </a>&nbsp;
-<a href="https://abyss-ui.vercel.app">
+<a href="https://abssy.vercel.app">
   <img src="https://img.shields.io/badge/▸_Live_Catalog-1f6feb?style=for-the-badge" alt="Live Catalog"/>
 </a>
 
@@ -68,18 +68,15 @@
 
 <br/>
 
-> ### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="18"/> Abyss — Ultra-Modern Animated UI & Component Laboratory
+> ### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="18"/> Abyss — Ultra-Modern React Component Library
 > <a href="https://github.com/DShivam9/Abyss"><img src="https://img.shields.io/badge/▸_Repository-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
-> `Next.js 15` `React` `TypeScript` `Three.js` `WebGL` `GSAP` `Tailwind CSS`
+> `Next.js` `React` `TypeScript` `WebGL` `Three.js` `GSAP`
 >
-> A high-performance, dark-mode component library & design system crafted for tactile interactions, 3D WebGL visuals, and fluid micro-animations.
+> Building unorthodox components for the web — focused on atmospheric WebGL shaders, kinetic scroll mechanics, and 3D viewports.
 >
-> ▸ **Kinetic Components**: 3D Reel Text, Tracklist Gallery, Arc Drift, 3D Shatter Globe, and procedural canvas shaders.
-> ▸ **Active Development Notice**: Continuously evolving — some experimental routes undergo active testing, but core components work smoothly.
-> ▸ **Zero Slop Standard**: Strict typography scaling, 60fps WebGL/GSAP motion physics, and zero bloat.
+> ⚠️ *Actively building and experimenting — some routes may change during testing, but most components work perfectly.*
 
-<br/>
 
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
