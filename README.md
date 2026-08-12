@@ -52,6 +52,40 @@
 
 <br/>
 
+<!-- CURRENTLY BUILDING: ABYSS -->
+## <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="30"> &nbsp;Currently Building: Abyss UI
+
+<div align="center">
+
+<a href="https://github.com/DShivam9/Abyss">
+  <img src="https://img.shields.io/badge/⚡_Abyss_UI-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Abyss UI"/>
+</a>&nbsp;
+<a href="https://abyss-ui.vercel.app">
+  <img src="https://img.shields.io/badge/▸_Live_Catalog-1f6feb?style=for-the-badge" alt="Live Catalog"/>
+</a>
+
+</div>
+
+<br/>
+
+> ### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="18"/> Abyss — Ultra-Modern Animated UI & Component Laboratory
+> <a href="https://github.com/DShivam9/Abyss"><img src="https://img.shields.io/badge/▸_Repository-21262d?style=flat-square&logo=github" alt="Source"/></a>
+>
+> `Next.js 15` `React` `TypeScript` `Three.js` `WebGL` `GSAP` `Tailwind CSS`
+>
+> A high-performance, dark-mode component library & design system crafted for tactile interactions, 3D WebGL visuals, and fluid micro-animations.
+>
+> ▸ **Kinetic Components**: 3D Reel Text, Tracklist Gallery, Arc Drift, 3D Shatter Globe, and procedural canvas shaders.
+> ▸ **Active Development Notice**: Continuously evolving — some experimental routes undergo active testing, but core components work smoothly.
+> ▸ **Zero Slop Standard**: Strict typography scaling, 60fps WebGL/GSAP motion physics, and zero bloat.
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
+
+<br/>
+
 <!-- TECH STACK -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
@@ -122,7 +156,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus_AI-8B5CF6?style=flat-square&logo=robot&logoColor=white)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B2B?style=flat-square&logo=rabbit&logoColor=white)
-![Stitch](https://img.shields.io/badge/Stitch-FF6154?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMWw3IDQtNyA0LTctNHoiLz48cGF0aCBkPSJNMSA1bDcgNCA3LTQiIG9wYWNpdHk9Ii41Ii8+PC9zdmc+&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-FF6154?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMWw3IDQtNyA0LTctNHoiLz48cGF0aCBkPSJNMSA1bDcgNCA3LTQiIG9wYWNpdHk9Ii45Ii8+PC9zdmc+&logoColor=white)
 
 </div>
 </td>
@@ -266,3 +300,4 @@
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:090979,50:1a1b6b,75:4338ca,100:6d28d9&height=120&section=footer" width="100%" />
+```
