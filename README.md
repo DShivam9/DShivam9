@@ -8,7 +8,7 @@
 
 <br/>
 
-I build full-stack web apps and creative frontend stuff — mostly with music on and a bunch of tabs open from other people's work that caught my eye.
+I'm a full-stack and creative frontend dev — learning by building, studying good craft across the web, and getting a little better with every project. Usually coding with music on.
 
 <br/>
 
