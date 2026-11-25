@@ -91,6 +91,6 @@
 
 <br/>
 
-<sub>headphones on, figuring things out one build at a time.</sub>
+<sub>headphones on, figuring things out one build at a time!</sub>
 
 </div>
