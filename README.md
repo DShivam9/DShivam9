@@ -6,13 +6,80 @@
   <img alt="Shivam Diwan" src="./assets/name-dark.svg" />
 </picture>
 
-Hey, I'm a full-stack engineer from Hyderabad — building web apps end to end and sweating the details that make interfaces feel right.
+<br/>
+
+I build full-stack web apps and creative frontend stuff — mostly with music on and a bunch of tabs open from other people's work that caught my eye.
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat&logo=vercel&logoColor=white)](https://portfolioshivam-drab.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Diwan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-diwan-84a1b9342/)
-[![Gmail](https://img.shields.io/badge/Gmail-shivamdiwan1500-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shivamdiwan1500@gmail.com)
-[![Status](https://img.shields.io/badge/Open%20to-SWE%20%7C%20Full--Stack%20%7C%20Frontend-2ea44f?style=flat)](mailto:shivamdiwan1500@gmail.com)
-[![Building](https://img.shields.io/badge/Building-Abyss%20UI-1f6feb?style=flat&logo=react&logoColor=white)](https://abssy.vercel.app/)
 [![Stars](https://img.shields.io/github/stars/DShivam9?affiliations=OWNER&style=flat&logo=github&label=Stars&color=e3b341)](https://github.com/DShivam9?tab=repositories)
+[![Spotify](https://img.shields.io/badge/Listening-Playlist-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6jKR7rsWQsvvFQa9zZE7gu)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-building-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-building-light.svg" />
+  <img alt="Currently Building" src="./assets/heading-building-dark.svg" />
+</picture>
+
+### Abyss
+
+An open-source collection of copy-paste React components I keep adding to whenever I build something worth reusing.
+
+[![Live](https://img.shields.io/badge/Abyss-Live%20Site-000000?style=flat&logo=vercel&logoColor=white)](https://abssy.vercel.app/)
+[![Source](https://img.shields.io/badge/GitHub-DShivam9%2FAbyss-24292f?style=flat&logo=github&logoColor=white)](https://github.com/DShivam9/Abyss)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/abyss-stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/abyss-stack-light.svg" />
+  <img alt="Abyss Stack: React, Next.js, TypeScript, Tailwind CSS, WebGL" src="./assets/abyss-stack-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-stack-light.svg" />
+  <img alt="Stack" src="./assets/heading-stack-dark.svg" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img alt="Stack: TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, Firebase, Git, Docker, Vercel, Claude" src="./assets/stack-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-connect-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-connect-light.svg" />
+  <img alt="Connect" src="./assets/heading-connect-dark.svg" />
+</picture>
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-shivamdiwan1500-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shivamdiwan1500@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Diwan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-diwan-84a1b9342/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolioshivam-000000?style=flat&logo=vercel&logoColor=white)](https://portfolioshivam-drab.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-@shen1on-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
