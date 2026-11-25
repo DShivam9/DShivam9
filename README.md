@@ -85,4 +85,8 @@
 [![Portfolio](./assets/portfolio-badge.svg)](https://portfolioshivam-drab.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
+<br/>
+
+<sub>headphones on, figuring things out one build at a time.</sub>
+
 </div>
