@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg" />
-  <img alt="Hey, I'm Shivam" src="./assets/name-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img alt="Hey, I'm Shivam" src="./assets/hero-dark.svg" />
 </picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0b3RiMzV2NmRzZmoyb3pheHhkNmp0dmltOWpzMjJmczAxbXZ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h5A8cYyWePr6GuE4cV/giphy.gif" width="155" alt="Listening to music" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0b3RiMzV2NmRzZmoyb3pheHhkNmp0dmltOWpzMjJmczAxbXZ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h5A8cYyWePr6GuE4cV/giphy.gif" width="180" alt="Listening to music" />
 
-<br/>
+<br/><br/>
 
 [![Portfolio](./assets/portfolio-flat.svg)](https://portfolioshivam-drab.vercel.app/)
 [![Stars](https://img.shields.io/github/stars/DShivam9?affiliations=OWNER&style=flat&logo=github&label=Stars&color=e3b341)](https://github.com/DShivam9?tab=repositories)
@@ -18,9 +18,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DShivam9&style=flat&color=1f6feb&label=Views)
 [![Spotify](https://img.shields.io/badge/Listening-Playlist-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6jKR7rsWQsvvFQa9zZE7gu)
 
-<br/>
-
-#### 👋 I'm a full-stack and creative frontend dev, learning by building, studying good craft across the web, and getting better with every project. Usually coding with music on.
+<p><strong>👋 I'm a full-stack and creative frontend dev, learning by building, studying good craft across the web, and getting better with every project. Usually coding with music on.</strong></p>
 
 </div>
 
@@ -64,12 +62,18 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
+</div>
+
 <br/>
 
+### 📊 Activity
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg" />
-  <img alt="GitHub contribution graph" src="./assets/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+  <img alt="GitHub contribution graph" src="./assets/activity-dark.svg" />
 </picture>
 
 </div>
