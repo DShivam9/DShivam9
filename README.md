@@ -3,12 +3,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/name-light.svg" />
-  <img alt="Shivam Diwan" src="./assets/name-dark.svg" />
+  <img alt="Hi there, I am Shivam" src="./assets/name-dark.svg" />
 </picture>
-
-<br/>
-
-I'm a full-stack and creative frontend dev — learning by building, studying good craft across the web, and getting a little better with every project. Usually coding with music on.
 
 <br/>
 
@@ -18,24 +14,16 @@ I'm a full-stack and creative frontend dev — learning by building, studying go
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-building-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-building-light.svg" />
-  <img alt="Currently Building" src="./assets/heading-building-dark.svg" />
-</picture>
-
-### Abyss
-
-An open-source collection of copy-paste React components I keep adding to whenever I build something worth reusing.
-
-[![Live](https://img.shields.io/badge/Abyss-Live%20Site-000000?style=flat&logo=vercel&logoColor=white)](https://abssy.vercel.app/)
-[![Source](https://img.shields.io/badge/GitHub-DShivam9%2FAbyss-24292f?style=flat&logo=github&logoColor=white)](https://github.com/DShivam9/Abyss)
+> I'm a full-stack and creative frontend dev — learning by building, studying good craft across the web, and getting a little better with every project. Usually coding with music on.
 
 <br/>
+
+### Currently Building
+
+> **[Abyss](https://abssy.vercel.app/)** · [GitHub](https://github.com/DShivam9/Abyss)  
+> An open-source collection of copy-paste React components I keep adding to whenever I build something worth reusing.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/abyss-stack-dark.svg" />
@@ -43,19 +31,9 @@ An open-source collection of copy-paste React components I keep adding to whenev
   <img alt="Abyss Stack: React, Next.js, TypeScript, Tailwind CSS, WebGL" src="./assets/abyss-stack-dark.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-stack-light.svg" />
-  <img alt="Stack" src="./assets/heading-stack-dark.svg" />
-</picture>
-
 <br/>
+
+### Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
@@ -63,23 +41,11 @@ An open-source collection of copy-paste React components I keep adding to whenev
   <img alt="Stack: TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, Firebase, Git, Docker, Vercel, Claude" src="./assets/stack-dark.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-connect-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/heading-connect-light.svg" />
-  <img alt="Connect" src="./assets/heading-connect-dark.svg" />
-</picture>
-
 <br/>
+
+### Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-shivamdiwan1500-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shivamdiwan1500@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Diwan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-diwan-84a1b9342/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolioshivam-000000?style=flat&logo=vercel&logoColor=white)](https://portfolioshivam-drab.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-@shen1on-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
-
-</div>
