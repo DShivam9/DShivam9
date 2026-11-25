@@ -29,7 +29,7 @@
 - **Abyss is an open-source collection of 23 copy-paste React components I keep adding to whenever I build something worth reusing.**
 - **Covers interactive UI pieces, motion primitives, and WebGL visuals you can drop straight into existing apps.**
 - **Links:** [Live Site](https://abssy.vercel.app/) · [GitHub](https://github.com/DShivam9/Abyss)
-- **Built with:** <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/abyss-stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/abyss-stack-light.svg" /><img alt="React, Next.js, TypeScript, Tailwind CSS, WebGL" src="./assets/abyss-stack-dark.svg" align="absmiddle" /></picture>
+- **Built with:** <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/abyss-tech-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/abyss-tech-light.svg" /><img alt="React, Next.js, TypeScript, Tailwind CSS, WebGL, GSAP" src="./assets/abyss-tech-dark.svg" align="absmiddle" /></picture>
 
 <br/>
 
@@ -59,8 +59,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](./assets/antigravity-badge.svg)
+![ChatGPT](./assets/chatgpt-badge.svg)
 
 </div>
 
